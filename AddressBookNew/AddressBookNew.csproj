@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D04DD78B-0D4E-4526-B59C-394D3C0AC9B4}</ProjectGuid>
+    <ProjectGuid>{48FB68B7-F7CB-4186-9652-0E652BC2CF58}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AddressBook</RootNamespace>
-    <AssemblyName>AddressBook</AssemblyName>
+    <RootNamespace>AddressBookNew</RootNamespace>
+    <AssemblyName>AddressBookNew</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
